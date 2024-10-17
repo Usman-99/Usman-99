@@ -31,6 +31,6 @@
 
 ### 🎓 Education
 - **Bachelor's in Computer Information Systems Engineering**  
-  *NED University of Engineering and Technology | 2024*
+  *NED University of Engineering and Technology | 2024 CGPA:3.564*
 
 
