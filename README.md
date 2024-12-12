@@ -26,7 +26,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usman-99&show_icons=true&locale=en" alt="usman-99" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usman-99&" alt="usman-99" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usman-99&" alt="usman-99" /></p> -->
 
 
 ### 🎓 Education
